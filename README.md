@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashikdable&show_icons=true&locale=en" alt="prashikdable" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashikdable&" alt="prashikdable" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=prashikdable&](https://github-readme-stats.vercel.app/api?username=abs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)https://github-readme-stats.vercel.app/api?username=abs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="prashikdable" /></p>
