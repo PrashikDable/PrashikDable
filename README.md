@@ -7,7 +7,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=PrashikDable&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashikdable&label=Profile%20views&color=0e75b6&style=flat" alt="prashikdable" /> </p>
 - 🧐 I'm actively seeking opportunities in the IT industry. If you have a project, an idea, or just want to chat, feel free to reach out. 
 
 - 🎯 I'm excited about the prospect of contributing to impactful solutions and growing within the dynamic world of technology!
