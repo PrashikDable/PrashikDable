@@ -13,6 +13,9 @@
 
 - 📫 How to reach me **prashikdable1234@gmail.com**
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PrashikDable&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prashik-dable-8876a5201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashik dable" height="30" width="40" /></a>
