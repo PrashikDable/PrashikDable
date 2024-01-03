@@ -27,6 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abs&theme=midnight-purple&hide_border=false" alt="prashikdable" /></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abs&theme=midnight-purple&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api?username=abs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
