@@ -10,7 +10,7 @@
 
 - 🎯 I'm excited about the prospect of contributing to impactful solutions and growing within the dynamic world of technology!
 
-- 💬 Ask me about **Java, JavaScript, MySQL, React, HTML, CSS**
+- 💬 Ask me about **Java, Spring Boot, microservices, JavaScript, MySQL, React, HTML, CSS**
 
 - 📫 How to reach me **prashikdable1234@gmail.com**
 
